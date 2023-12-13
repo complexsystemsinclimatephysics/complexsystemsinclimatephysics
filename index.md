@@ -1,4 +1,3 @@
-# Welcome
 Here you can find source code and material we hope you will find useful to extend the topics of degree course "Complex systems in climate physics".
 
 Each subparagraph is a project or a resource of some kind. Additional information are added below the title.
