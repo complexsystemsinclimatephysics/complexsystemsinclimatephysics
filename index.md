@@ -11,7 +11,7 @@ TODO description.
 TODO references.
 
 **Authors**  
-TODO references.
+Federico Gollinucci
 
 ## Radiative-convective equilibrium in a grey atmosphere
 A radiative-convective model is used to simulate and study the dynamics of a simplified atmosphere. Several hypotheses are adopted to treat the problem analytically.
