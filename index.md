@@ -17,7 +17,8 @@ TODO references.
 A radiative-convective model is used to simulate and study the dynamics of a simplified atmosphere. Several hypotheses are adopted to treat the problem analytically.
 
 **References**  
-[Details and source code](https://github.com/mirasac/algonume/tree/main/project)
+[Presentation](https://github.com/mirasac/algonume/blob/main/project/presentation/casari_project_169.pdf)
+[Source code](https://github.com/mirasac/algonume/tree/main/project)
 
 **Authors**  
 Marco Casari ([mirasac](https://github.com/mirasac))
