@@ -8,7 +8,7 @@ Each subparagraph is a project or a resource of some kind. Additional informatio
 A radiative-convective model is used to simulate and study the dynamics of a simplified atmosphere. Several hypotheses are adopted to treat the problem analytically.
 
 **References**  
-[Presentation](https://github.com/mirasac/algonume/blob/main/project/presentation/casari_project_169.pdf)
+[Presentation](https://github.com/mirasac/algonume/blob/main/project/presentation/casari_project_169.pdf)  
 [Source code](https://github.com/mirasac/algonume/tree/main/project)
 
 **Authors**  
